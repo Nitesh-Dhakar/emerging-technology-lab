@@ -6,4 +6,4 @@
 - create new branches
 - create PR
 - understand forking
-- understandinh conflicts-Rashi
+- understanding conflicts-Rashi
